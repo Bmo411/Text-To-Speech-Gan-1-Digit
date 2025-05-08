@@ -117,9 +117,11 @@ jupyter notebook TestTTS.ipynb
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**@homero-sepulveda**  
+**@Aaronsep**  
+Ingeniero mecatrónico | Especializado en IA, sistemas embebidos y robótica.
+**@Bmo411**  
 Ingeniero mecatrónico | Especializado en IA, sistemas embebidos y robótica.
 
 ---
