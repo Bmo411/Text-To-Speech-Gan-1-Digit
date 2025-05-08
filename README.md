@@ -121,6 +121,7 @@ jupyter notebook TestTTS.ipynb
 
 **@Aaronsep**  
 Ingeniero mecatrónico | Especializado en IA, sistemas embebidos y robótica.
+
 **@Bmo411**  
 Ingeniero mecatrónico | Especializado en IA, sistemas embebidos y robótica.
 
